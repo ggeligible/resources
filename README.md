@@ -10,8 +10,8 @@ List of important references and resources.
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
-* [Rails](#rails)
 * [Ruby](#ruby)
+* [Rails](#rails)
 * [Unix](#unix)
 
 
@@ -21,3 +21,5 @@ List of important references and resources.
 
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 
+### Rails
+* [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
