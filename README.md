@@ -13,6 +13,7 @@ List of important references and resources.
 * [Ruby](https://github.com/1989gaurav/resources/blob/master/Ruby.md#ruby)
 * [Rails](#rails)
 * [Unix](#unix)
+* [Security](https://github.com/1989gaurav/resources/blob/master/Security.md)
 
 
 ### Devops
