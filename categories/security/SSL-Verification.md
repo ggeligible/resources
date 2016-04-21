@@ -1,4 +1,5 @@
 Very good resource: http://mislav.net/2013/07/ruby-openssl/
+https://github.com/lostisland/faraday/issues/371
 
 **********************
 if you are only interested in how to make Ruby behave the same way as OpenSSL s_client or your browser does, you may skip to the very last section, I'll cover the fine print in what is following.

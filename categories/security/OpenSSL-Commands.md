@@ -8,3 +8,5 @@ openssl version -d
 
 openssl x509 -in digicert.pem -noout -fingerprint
 
+#### Show SSL Cert chain
+echo 0|openssl s_client -showcerts -connect host:port 
