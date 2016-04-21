@@ -1,3 +1,6 @@
+Very good resource: http://mislav.net/2013/07/ruby-openssl/
+
+**********************
 if you are only interested in how to make Ruby behave the same way as OpenSSL s_client or your browser does, you may skip to the very last section, I'll cover the fine print in what is following.
 
 By default, the OpenSSL::X509::Store used for making the connection doesn't use any trusted certificates at all. Based on your knowledge of the application domain, you would typically feed an instance of X509::Store with the trusted certificate(s) that are relevant for your application. There are several options for this:
