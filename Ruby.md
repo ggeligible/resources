@@ -12,6 +12,7 @@
 #### Usefule Ruby Gems 
 
 * [Rubocop](https://github.com/bbatsov/rubocop): A Ruby static code analyzer
+* [Rails Composer](https://github.com/RailsApps/rails-composer): A better rails generator with rails app.
 * [Rails App Composer](https://github.com/RailsApps/rails_apps_composer): Create Rails application templates for Rails starter apps.
  
 
