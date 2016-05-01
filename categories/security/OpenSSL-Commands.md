@@ -1,4 +1,5 @@
-https://redkestrel.co.uk/articles/openssl-commands
+* [OpenSSL Commands](https://redkestrel.co.uk/articles/openssl-commands)
+* [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/online/)
 
 #### Check openssl directory
 
