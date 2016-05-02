@@ -1,7 +1,8 @@
 ### Ruby
 
 
-
+#### Books
+* [Ruby Cookbook](https://www.safaribooksonline.com/library/view/ruby-cookbook/0596523696/)
 
 #### Best Practices
 
