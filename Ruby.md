@@ -1,5 +1,7 @@
 ### Ruby
 
+#### Articles
+* [Ruby Incremental Garbage Collection](https://engineering.heroku.com/blogs/2015-02-04-incremental-gc/)
 
 #### Books
 * [Ruby Cookbook](https://www.safaribooksonline.com/library/view/ruby-cookbook/0596523696/)
