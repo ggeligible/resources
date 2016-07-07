@@ -12,6 +12,9 @@
 
 #### Testing
 
+#### Rails
+* [BinBinary Rails 5 Series](http://blog.bigbinary.com/categories/Rails-5)
+
 #### Usefule Ruby Gems 
 
 * [Rubocop](https://github.com/bbatsov/rubocop): A Ruby static code analyzer
