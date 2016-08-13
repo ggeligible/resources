@@ -80,3 +80,48 @@ __Principals:__
  * Password reuse of strong password
  * Password Managers - Encrypted by single strong passwords
 
+##### Trust with reluctances
+* Category: Prevention & Mitigation
+* Security of system depends on security of each part
+* Imporve security by reducing the amount of trust placed in each part
+ * Better design
+ * Function safely
+ * Avoid unnecessary assumtions - Like third party libraries are correct
+ * Small trusted computing base
+* Trusting with least privilege / Need to know
+* Trust is transitive - If you trust something, you trust what it trusts
+* Input validation
+* Promote Privacy - Restrict flow of sensitive information as much as possible
+* Compartmentalization - Isolate system components in compartments like sandbox
+
+##### Defend in depth
+* Security by diversity - Do not rely on single defense or single kind of defense
+ * Firewall
+ * Encrypt at rest
+ * Use type safe language to write web server
+* Community resources
+ * Use community resources like hardened code, cryptography libraries
+ * Vet design publically
+ * Stay up on recent threats and research 
+
+##### Monitoring and Tracebility
+* If a attack happens, how will you know it
+* Once we know, how to stop the attacker
+* Logs for operational information
+ * Failed logging attempts
+ * Transactions processed
+ * Events handled
+* Log aggregation
+
+
+### Top Design Flaws
+* Don't assume trust rather explicitly give it or award it
+* Don't use an authentication mechanism which can be bypassed or tempered
+* Don't authorize without considering sufficient context
+* Don't confuse data, control and process instructions from untrusted sources
+* Fail to validate the data explicitly and comprehensively
+* Fail to use cryptography correctly
+* Fail to identify and handle sensitive data correctly
+* Don't ignore the user
+* Don't integrate external components without considering their attack surface
+* Don't constrain future changes to objects and actors
