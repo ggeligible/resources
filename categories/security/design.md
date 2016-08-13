@@ -53,7 +53,7 @@ __Categories:__
 * Detection & Recovery - Identify and understanding an attack and undo the damage if possible
 
 __Principals:__
-* Favor simplicity
+* [Favor simplicity|https://github.com/1989gaurav/resources/blob/master/categories/security/design.md#favor-simplicity]
  * Use fail safe defaults
  * Do not expect expert users
 * Trust with reluctance
@@ -63,3 +63,20 @@ __Principals:__
 * Monitoring and trace
 
 ##### Favor simplicity
+* Category: Prevention
+* Understanding system is very important which requires simplicity
+* Includes external interfaces, internal design and interactions
+* Use fail safe/secure defaults
+ * Prefer whitelist over blacklist
+ * No default passwords
+ * Strong cryptography key length as default like 4096
+* Don't expect expert users
+ * Simple user interface
+ * Natural and obvious choice should be the most secure choice
+ * Don't force users to make frequent secuirty choices, might end up chosing insecure option by selecting Yes
+ * Help users to explore consequences of choice in case of security choices
+* Passwords
+ * Easy to remember for owner and hard to guess for adverseries 
+ * Password reuse of strong password
+ * Password Managers - Encrypted by single strong passwords
+
