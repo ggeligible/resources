@@ -120,10 +120,13 @@ __Principals:__
 ### Top Design Flaws
 * Don't assume trust rather explicitly give it or award it
 * Don't use an authentication mechanism which can be bypassed or tempered
+ * Can be avoided by better abuse cases
 * Don't authorize without considering sufficient context
 * Don't confuse data, control and process instructions from untrusted sources
 * Fail to validate the data explicitly and comprehensively
 * Fail to use cryptography correctly
+ * Don't roll your own crypto for algorithm design and implementation
+ * How to use crypto properly, required key size, randomness, etc.
 * Fail to identify and handle sensitive data correctly
 * Don't ignore the user
 * Don't integrate external components without considering their attack surface
