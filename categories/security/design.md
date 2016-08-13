@@ -1,3 +1,5 @@
+__Security is not an optional feature, its a mandatory requirement__
+
 ### Requirements
 * Security Policy/Goal
 * Required mechanism to enforce security policy
@@ -35,6 +37,7 @@ Abuse case illustrate security requirements which describes what a __system shou
 * Using attack patterns abd likely scenarios, build cases where adversary can violate a security requirement
 * Assume adversary's power based on thread model and what could go wrong.
 * What might occur if security measure didn't exist or removed.
+* Make sure to test for what should not happen.
 
 ### Design Phase
 * Processes, interactions, programming langages and framework
