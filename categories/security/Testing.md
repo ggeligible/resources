@@ -18,7 +18,9 @@ Analyze programs source code without executing it with high coverage. Static ana
 * Code style is important for static analysis
 * If a code is easy to understand for human and follows conventions, then it should be easy for machine
 * Always aim for good code, makes it easier to analyse
-* 
+
+#### Flow Analysis
+* Root cause of many attacks is trusting unvalidated input. No tainted data flow can catch missing input validations. For all possible inputs, prove that tainted data will never be used where untainted data is expected.
 
 
 ### Symbolic Execution
