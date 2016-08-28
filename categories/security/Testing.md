@@ -12,3 +12,10 @@
 * Automated tools to probe the systems and make sure weakness affect the system
 * Seperate team from developers with specialized skill set
 * Given various level of access like from no access(attacker) to full access(administrators)
+
+#### Penetrations 
+* exploitable and reproducible
+* No false alarm
+* Fixes imply clear improvement of security
+* Absense does not imply absense of vulnerability
+* Any system changes need to be retested
