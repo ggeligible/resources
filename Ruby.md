@@ -9,6 +9,7 @@
 #### Best Practices
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Best Ruby](http://best-ruby.com/)
+* [Reek](https://github.com/troessner/reek) - Detect Code Smells
 
 #### Testing
 * [Better Specs](http://betterspecs.org/)
